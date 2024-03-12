@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
       <>
-        <h1>HELLO APP</h1>
+        <h1>HELLO APP from LOCAL</h1>
       </>
   );
 }
